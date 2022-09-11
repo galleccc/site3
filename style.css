@@ -1,0 +1,22 @@
+.lol {
+    border: 5px solid black;
+    background-color: black;
+    width: 150px;
+    height: 150px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 5%;
+    font-size: 110%;
+}
+.heh {
+    display: flex;
+    align-items: center;
+}
+.home {
+    gap: 50px;
+    display: flex;
+    justify-content: center;
+}
